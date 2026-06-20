@@ -1,13 +1,10 @@
 {
-  "name": "321 Daily Victory",
-  "short_name": "321 Victory",
-  "description": "Daily discipleship planner — live out Christ and become an overcomer (321 Concept).",
-  "lang": "en",
-  "start_url": "index.html",
+  "name": "321每日得勝",
+  "short_name": "321每日得勝",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#ffffff",
+  "background_color": "#f4f6fa",
   "theme_color": "#2d3a8c",
   "icons": [
     {
